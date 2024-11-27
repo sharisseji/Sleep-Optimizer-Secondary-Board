@@ -1,2 +1,7 @@
-# Sleep-Optimizer-Board-A
-The code for the second half of our Sleep Optimizer Project using 2 STM32 Microcontrollers
+# Sleep-Optimizer-Secondary-Board
+
+This project uses two STM32 Microcontrollers to manually control and reset light and sound settings on a breadboard to provide an optimal sleeping environment. This board sends the USART signal to the main board based on button input. 
+
+Code for the main board can be found [here](https://github.com/sharisseji/Sleep-Optimizer-Main-Board.git).
+
+The board type we used was the STM32 NUCLEO F4O1RE for both microctontrollers. The microcontrollers were programmed using STM32CubeIDE.
