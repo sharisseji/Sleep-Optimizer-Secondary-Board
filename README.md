@@ -1,6 +1,6 @@
 # Sleep-Optimizer-Secondary-Board
 
-This project uses two STM32 Microcontrollers to manually control and reset light and sound settings to provide an optimal sleeping environment. This board sends the USART signal to the main board based on button input. 
+This project uses two STM32 Microcontrollers to manually control and reset light and sound settings to provide an optimal sleeping environment. This board sends the UART signal to the main board based on button input. 
 
 Code for the main board can be found [here](https://github.com/sharisseji/Sleep-Optimizer-Main-Board.git).
 
